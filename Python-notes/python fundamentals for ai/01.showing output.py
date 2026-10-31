@@ -1,1 +1,0 @@
-print("Hello i am learning Python!") #print() is used for displaying things
